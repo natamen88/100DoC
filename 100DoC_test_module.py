@@ -1,7 +1,7 @@
-from random import randint
-import requests
+#from random import randint
+import random
 
-number = randint(1,100)
+number = random.randint(1,100)
 
 print(number)
 
